@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df53a939f9e034d6fb1aa3810e15c9cf, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  startMoney: 100
+  startLives: 10
+  levelName: It's Just Called Two Goblins
+  levelBackgroundImage: {fileID: 21300000, guid: 7f15536a7a677424aa8d3eda85244986,
+    type: 3}
+  mapGrid: {fileID: 1432021177542032, guid: 516a3a1f6e8cc4d568d5f116a1d0442b, type: 2}
+  levelDescription: So there you were.  Sitting, minding your own business.  Then,
+    out of nowhere, you hear it.  The stomping of feet.  The jingling of armor.  The
+    loot bag scraping across the ground, lugged by an overweight warrior trying to
+    escape.  That's right.  There's a train coming, and you are sitting right at the
+    zone line.
+  waves:
+  - {fileID: 11400000, guid: 851ba6bf721fb45dd8ac49894688f60d, type: 2}
+  antagonists: []
+  timeBetweenWaves: 20

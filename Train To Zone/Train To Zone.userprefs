@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{692D9835-1D54-99D3-70F3-7A18FEA868C7}|">
+  <MonoDevelop.Ide.ItemProperties.Train_220To_220Zone PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts - Controller/LoadScene.cs">
+    <Files>
+      <File FileName="../../dungeon/Dungeon/Assets/Scripts/GameManager.cs" Line="32" Column="5" />
+      <File FileName="Assets/Scripts - Controller/LoadDelay.cs" Line="17" Column="44" />
+      <File FileName="Assets/Scripts - Controller/LoadScene.cs" Line="9" Column="45" />
+      <File FileName="Assets/Scripts - Controller/LevelSelect.cs" Line="15" Column="40" />
+      <File FileName="Assets/Scripts - Controller/GameManager.cs" Line="10" Column="31" />
+      <File FileName="Assets/Scripts/Foundations/Antagonist.cs" Line="5" Column="63" />
+      <File FileName="Assets/Scripts/Foundations/Mob.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Mob/MobController.cs" Line="12" Column="19" />
+      <File FileName="Assets/Scripts - Controller/WaveSpawner.cs" Line="36" Column="9" />
+      <File FileName="Assets/Scripts - Controller/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts - Controller/LevelController.cs" Line="12" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
